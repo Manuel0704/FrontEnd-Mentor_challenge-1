@@ -63,7 +63,7 @@
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
   height: 75%;
-  background-image: url("/images/bg-pattern-card.svg");
+  background-image: url("../images/bg-pattern-card.svg");
   background-size: 100%;
   background-repeat: no-repeat;
 }
